@@ -216,9 +216,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-
-# Data
-data/
-Predicting Student Progress Report Template.pdf
-Regression.txt
-test.py
